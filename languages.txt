@@ -3,4 +3,4 @@ Kotlin
 scala
 ruby
 javascript
-c++
+rust
